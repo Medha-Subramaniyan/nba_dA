@@ -1,0 +1,493 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0042400406,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400406,4,10,0,1,8:41 PM,12:00,Jump Ball Turner vs. Holmgren: Tip to Gilgeous-Alexander,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042400406,7,2,93,1,8:41 PM,11:44,,,MISS Holmgren 5' Driving Bank Hook Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,8,4,0,1,8:41 PM,11:42,,,Hartenstein REBOUND (Off:1 Def:0),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,9,1,72,1,8:41 PM,11:42,,,Hartenstein 4' Putback Layup (2 PTS),2 - 0,-2,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,11,6,6,1,8:42 PM,11:35,,,Hartenstein AWAY.FROM.PLAY.FOUL (P1.T1) (Z.Zarba),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,13,3,10,1,8:42 PM,11:35,Haliburton Free Throw 1 of 1 (1 PTS),,,2 - 1,-1,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,14,2,47,1,8:43 PM,11:31,MISS Turner 9' Turnaround Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,15,4,0,1,8:43 PM,11:27,,,Holmgren REBOUND (Off:0 Def:1),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,16,5,2,1,8:43 PM,11:19,Nembhard STEAL (1 STL),,Gilgeous-Alexander Lost Ball Turnover (P1.T1),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,18,2,103,1,8:43 PM,11:15,MISS Haliburton 25' 3PT Running Pull-Up Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,19,4,0,1,8:43 PM,11:12,,,Holmgren REBOUND (Off:0 Def:2),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,20,2,80,1,8:43 PM,10:57,,,MISS Jal. Williams 25' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,21,4,0,1,8:43 PM,10:54,Haliburton REBOUND (Off:0 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,22,2,1,1,8:43 PM,10:45,MISS Turner 24' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,23,4,0,1,8:43 PM,10:42,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,25,2,1,1,8:44 PM,10:40,MISS Nesmith 24' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,26,4,0,1,8:44 PM,10:36,,,Jal. Williams REBOUND (Off:0 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,27,5,2,1,8:44 PM,10:25,Nembhard STEAL (2 STL),,Gilgeous-Alexander Lost Ball Turnover (P2.T2),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,29,2,101,1,8:44 PM,10:13,MISS Haliburton 10' Driving Floating Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,30,4,0,1,8:44 PM,10:11,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,32,1,6,1,8:45 PM,9:54,,,Holmgren 3' Driving Layup (2 PTS),4 - 1,-3,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,33,6,2,1,8:45 PM,9:41,,,Holmgren S.FOUL (P1.T2) (T.Brothers),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,35,3,11,1,8:45 PM,9:41,MISS Turner Free Throw 1 of 2,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,36,4,1,1,8:45 PM,9:41,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,37,3,12,1,8:45 PM,9:41,Turner Free Throw 2 of 2 (1 PTS),,,4 - 2,-2,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,38,1,75,1,8:46 PM,9:28,,,Jal. Williams 4' Driving Finger Roll Layup (2 PTS),6 - 2,-4,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,39,2,6,1,8:46 PM,9:18,MISS Haliburton 5' Driving Layup,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,40,4,0,1,8:46 PM,9:16,,,Hartenstein REBOUND (Off:1 Def:1),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,41,2,6,1,8:46 PM,9:07,Nesmith BLOCK (1 BLK),,MISS Jal. Williams 5' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1
+0042400406,43,4,0,1,8:46 PM,9:07,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,45,1,9,1,8:46 PM,8:59,,,Jal. Williams 3' Driving Dunk (4 PTS),8 - 2,-6,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,46,9,1,1,8:46 PM,8:59,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,47,2,1,1,8:51 PM,8:41,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,48,4,0,1,8:51 PM,8:38,,,Jal. Williams REBOUND (Off:0 Def:2),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,49,1,71,1,8:51 PM,8:26,,,Holmgren 3' Finger Roll Layup (4 PTS) (Hartenstein 1 AST),10 - 2,-8,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,51,2,5,1,8:51 PM,8:05,MISS Turner 5' Layup,,Hartenstein BLOCK (1 BLK),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042400406,53,4,0,1,8:51 PM,8:02,Siakam REBOUND (Off:1 Def:0),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,54,1,1,1,8:51 PM,8:00,Siakam 17' Jump Shot (2 PTS),,,10 - 4,-6,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,55,2,79,1,8:52 PM,7:37,,,MISS Jal. Williams 25' 3PT Pullup Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,56,4,0,1,8:52 PM,7:34,Siakam REBOUND (Off:1 Def:1),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,57,1,41,1,8:52 PM,7:31,Siakam 3' Running Layup (4 PTS),,,10 - 6,-4,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,58,6,2,1,8:52 PM,7:31,,,Dort S.FOUL (P1.T3) (Z.Zarba),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,60,8,0,1,8:52 PM,7:31,,,SUB: Caruso FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,62,3,10,1,8:52 PM,7:31,Siakam Free Throw 1 of 1 (5 PTS),,,10 - 7,-3,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,63,2,6,1,8:53 PM,7:23,Siakam BLOCK (1 BLK),,MISS Gilgeous-Alexander 2' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1
+0042400406,65,4,0,1,8:53 PM,7:18,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,66,1,2,1,8:53 PM,7:15,Nembhard 24' 3PT Running Jump Shot (3 PTS) (Haliburton 1 AST),,,10 - 10,TIE,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,68,1,75,1,8:53 PM,7:03,,,Gilgeous-Alexander 3' Driving Finger Roll Layup (2 PTS),12 - 10,-2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,70,1,80,1,8:53 PM,6:42,Nembhard 26' 3PT Step Back Jump Shot (6 PTS) (Nesmith 1 AST),,,12 - 13,1,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,72,5,4,1,8:54 PM,6:23,,,Holmgren Traveling Turnover (P1.T3),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042400406,73,1,75,1,8:54 PM,6:17,Nembhard 3' Driving Finger Roll Layup (8 PTS),,,12 - 15,3,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,74,6,2,1,8:54 PM,5:50,Nesmith S.FOUL (P1.T1) (Z.Zarba),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,76,3,11,1,8:55 PM,5:50,,,Jal. Williams Free Throw 1 of 2 (5 PTS),13 - 15,2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,77,8,0,1,8:55 PM,5:50,SUB: Toppin FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,78,8,0,1,8:55 PM,5:50,SUB: McConnell FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,79,8,0,1,8:55 PM,5:50,SUB: Sheppard FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,80,8,0,1,8:55 PM,5:50,,,SUB: Hartenstein FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,81,8,0,1,8:55 PM,5:50,,,SUB: Wiggins FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,87,3,12,1,8:55 PM,5:50,,,MISS Jal. Williams Free Throw 2 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,88,4,0,1,8:55 PM,5:48,Toppin REBOUND (Off:0 Def:1),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,89,1,1,1,8:56 PM,5:36,Toppin 25' 3PT Jump Shot (3 PTS) (McConnell 1 AST),,,13 - 18,5,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,91,1,101,1,8:56 PM,5:20,,,Hartenstein 7' Driving Floating Jump Shot (4 PTS),15 - 18,3,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,92,2,80,1,8:56 PM,5:04,MISS Haliburton 27' 3PT Step Back Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,93,4,0,1,8:56 PM,5:01,,,Jal. Williams REBOUND (Off:0 Def:3),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,94,5,1,1,8:56 PM,4:58,McConnell STEAL (1 STL),,Jal. Williams Bad Pass Turnover (P1.T4),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,96,1,1,1,8:56 PM,4:56,Toppin 26' 3PT Jump Shot (6 PTS) (McConnell 2 AST),,,15 - 21,6,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,99,1,79,1,8:57 PM,4:36,,,Jal. Williams 13' Pullup Jump Shot (7 PTS) (Caruso 1 AST),17 - 21,4,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,100,2,1,1,8:57 PM,4:21,MISS Toppin 28' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,101,4,0,1,8:57 PM,4:18,Turner REBOUND (Off:1 Def:0),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,102,1,1,1,8:57 PM,4:16,Haliburton 27' 3PT Jump Shot (4 PTS) (Turner 1 AST),,,17 - 24,7,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,104,9,1,1,8:57 PM,4:15,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,106,8,0,1,9:01 PM,4:15,SUB: Nembhard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,107,8,0,1,9:01 PM,4:15,,,SUB: Gilgeous-Alexander FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,108,8,0,1,9:01 PM,4:15,,,SUB: Wallace FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,113,2,1,1,9:01 PM,4:04,,,MISS Wiggins 25' 3PT Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,114,4,0,1,9:01 PM,4:01,Toppin REBOUND (Off:0 Def:2),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,115,6,2,1,9:02 PM,3:54,,,Wallace S.FOUL (P1.T4) (Z.Zarba),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,117,3,11,1,9:02 PM,3:54,MISS McConnell Free Throw 1 of 2,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,118,4,1,1,9:02 PM,3:54,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,119,3,12,1,9:02 PM,3:54,MISS McConnell Free Throw 2 of 2,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,120,4,0,1,9:02 PM,3:53,,,Hartenstein REBOUND (Off:1 Def:2),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,121,2,79,1,9:03 PM,3:37,,,MISS Wallace 26' 3PT Pullup Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,122,4,0,1,9:03 PM,3:34,Turner REBOUND (Off:1 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,123,6,1,1,9:03 PM,3:27,,,Wiggins P.FOUL (P1.PN) (T.Brothers),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,125,3,11,1,9:03 PM,3:27,Toppin Free Throw 1 of 2 (7 PTS),,,17 - 25,8,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,126,8,0,1,9:03 PM,3:27,SUB: Siakam FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,128,3,12,1,9:04 PM,3:27,Toppin Free Throw 2 of 2 (8 PTS),,,17 - 26,9,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,129,2,79,1,9:04 PM,3:09,,,MISS Gilgeous-Alexander 13' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,130,4,0,1,9:04 PM,3:05,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,131,2,1,1,9:04 PM,2:54,MISS Sheppard 27' 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,132,4,0,1,9:04 PM,2:51,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,133,6,3,1,9:04 PM,2:51,McConnell L.B.FOUL (P1.T2) (Z.Zarba),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,135,8,0,1,9:05 PM,2:51,,,SUB: Holmgren FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,137,8,0,1,9:05 PM,2:51,SUB: Mathurin FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,139,2,63,1,9:05 PM,2:42,,,MISS Gilgeous-Alexander 12' Fadeaway Jumper,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,140,4,0,1,9:05 PM,2:39,Toppin REBOUND (Off:0 Def:3),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,141,2,80,1,9:05 PM,2:23,MISS Siakam 22' Step Back Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,142,4,0,1,9:05 PM,2:20,,,Caruso REBOUND (Off:0 Def:1),,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,143,1,103,1,9:06 PM,2:17,,,Wiggins 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Caruso 2 AST),20 - 26,6,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,145,2,1,1,9:06 PM,2:03,MISS Toppin 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,146,4,0,1,9:06 PM,1:59,,,Wallace REBOUND (Off:0 Def:1),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,147,2,79,1,9:06 PM,1:50,,,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,148,4,0,1,9:06 PM,1:46,Mathurin REBOUND (Off:0 Def:1),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,149,6,2,1,9:06 PM,1:42,,,Wallace S.FOUL (P2.PN) (Z.Zarba),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,151,3,11,1,9:07 PM,1:42,Siakam Free Throw 1 of 2 (6 PTS),,,20 - 27,7,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,152,3,12,1,9:07 PM,1:42,Siakam Free Throw 2 of 2 (7 PTS),,,20 - 28,8,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,154,1,80,1,9:08 PM,1:21,,,Gilgeous-Alexander 16' Step Back Jump Shot (4 PTS),22 - 28,6,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,155,2,73,1,9:08 PM,1:01,MISS McConnell 3' Driving Reverse Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,156,4,0,1,9:08 PM,0:59,,,Holmgren REBOUND (Off:0 Def:3),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,157,5,1,1,9:08 PM,0:51,Mathurin STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P3.T5),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,159,2,41,1,9:08 PM,0:46,MISS Toppin 1' Running Layup,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,160,4,0,1,9:08 PM,0:43,,,Caruso REBOUND (Off:0 Def:2),,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,161,6,2,1,9:08 PM,0:36,Siakam S.FOUL (P1.T3) (Z.Zarba),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,163,3,11,1,9:09 PM,0:36,,,MISS Gilgeous-Alexander Free Throw 1 of 2,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,164,4,1,1,9:09 PM,0:36,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,165,8,0,1,9:09 PM,0:36,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,166,8,0,1,9:09 PM,0:36,,,SUB: Dort FOR Caruso,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,167,8,0,1,9:09 PM,0:36,,,SUB: K. Williams FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,171,3,12,1,9:09 PM,0:36,,,Gilgeous-Alexander Free Throw 2 of 2 (5 PTS),23 - 28,5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,172,2,5,1,9:10 PM,0:25,MISS Toppin 4' Layup,,Wiggins BLOCK (1 BLK),,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042400406,174,4,0,1,9:10 PM,0:21,,,Gilgeous-Alexander REBOUND (Off:0 Def:1),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,175,1,102,1,9:10 PM,0:02,,,Gilgeous-Alexander 4' Driving Floating Bank Jump Shot (7 PTS),25 - 28,3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,176,2,79,1,9:10 PM,0:00,MISS Mathurin 52' 3PT Pullup Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,177,4,0,1,9:10 PM,0:00,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,178,13,0,1,9:10 PM,0:00,,End of 1st Period (9:10 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400406,185,12,0,2,9:14 PM,12:00,,Start of 2nd Period (9:14 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,186,2,79,2,9:14 PM,11:46,MISS Mathurin 28' 3PT Pullup Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,187,4,0,2,9:14 PM,11:42,,,K. Williams REBOUND (Off:0 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,188,1,80,2,9:14 PM,11:32,,,Gilgeous-Alexander 12' Step Back Jump Shot (9 PTS),27 - 28,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,189,1,6,2,9:15 PM,11:22,McConnell 2' Driving Layup (2 PTS),,,27 - 30,3,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,190,6,4,2,9:15 PM,11:09,,,Gilgeous-Alexander OFF.Foul (P1) (T.Brothers),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,192,5,37,2,9:15 PM,11:09,,,Gilgeous-Alexander Offensive Foul Turnover (P4.T6),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042400406,193,1,63,2,9:15 PM,10:55,McConnell 9' Fadeaway Jumper (4 PTS),,,27 - 32,5,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,194,2,1,2,9:15 PM,10:43,,,MISS K. Williams 26' 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,195,4,0,2,9:15 PM,10:40,Mathurin REBOUND (Off:0 Def:2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,197,2,1,2,9:17 PM,10:20,MISS Turner 24' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,198,4,0,2,9:17 PM,10:16,Mathurin REBOUND (Off:1 Def:2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,199,5,39,2,9:17 PM,10:10,Turner Step Out of Bounds Turnover (P1.T1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,200,1,79,2,9:17 PM,9:55,,,Gilgeous-Alexander 10' Pullup Jump Shot (11 PTS),29 - 32,3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,201,2,93,2,9:17 PM,9:41,MISS Turner 4' Driving Bank Hook Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,202,4,0,2,9:17 PM,9:40,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,204,1,73,2,9:18 PM,9:29,,,Jal. Williams 3' Driving Reverse Layup (9 PTS),31 - 32,1,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,205,9,1,2,9:18 PM,9:28,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,206,8,0,2,9:21 PM,9:28,SUB: Nesmith FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,207,8,0,2,9:21 PM,9:28,,,SUB: Hartenstein FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,208,8,0,2,9:21 PM,9:28,,,SUB: Wallace FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,209,8,0,2,9:21 PM,9:28,,,SUB: Caruso FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,214,8,0,2,9:21 PM,9:28,SUB: Bradley FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,216,8,0,2,9:21 PM,9:28,SUB: Haliburton FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,218,1,79,2,9:22 PM,9:08,McConnell 15' Pullup Jump Shot (6 PTS),,,31 - 34,3,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,219,6,2,2,9:22 PM,8:52,Siakam S.FOUL (P2.T1) (D.Guthrie),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,221,3,11,2,9:23 PM,8:52,,,Jal. Williams Free Throw 1 of 2 (10 PTS),32 - 34,2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,222,8,0,2,9:23 PM,8:52,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,224,3,12,2,9:23 PM,8:52,,,Jal. Williams Free Throw 2 of 2 (11 PTS),33 - 34,1,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,225,2,1,2,9:23 PM,8:29,MISS Nesmith 24' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,226,4,0,2,9:23 PM,8:28,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,228,5,40,2,9:24 PM,8:18,,,Jal. Williams Out of Bounds Lost Ball Turnover (P2.T7),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042400406,229,1,79,2,9:24 PM,8:13,McConnell 12' Pullup Jump Shot (8 PTS),,,33 - 36,3,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,230,2,79,2,9:25 PM,7:55,,,MISS Wallace 12' Pullup Jump Shot,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,232,4,0,2,9:25 PM,7:53,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,233,1,80,2,9:25 PM,7:49,Haliburton 27' 3PT Step Back Jump Shot (7 PTS) (McConnell 3 AST),,,33 - 39,6,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,235,6,4,2,9:25 PM,7:40,,,Caruso OFF.Foul (P1) (T.Brothers),,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0042400406,237,5,37,2,9:25 PM,7:40,,,Caruso Offensive Foul Turnover (P1.T8),,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0042400406,238,8,0,2,9:25 PM,7:40,,,SUB: Dort FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,240,2,79,2,9:26 PM,7:25,MISS McConnell 7' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,241,4,0,2,9:26 PM,7:23,Bradley REBOUND (Off:2 Def:0),,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,244,2,97,2,9:26 PM,7:23,MISS Bradley 1' Tip Layup Shot,,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,245,4,0,2,9:26 PM,7:23,Bradley REBOUND (Off:2 Def:0),,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,242,1,72,2,9:26 PM,7:21,Bradley 1' Putback Layup (2 PTS),,,33 - 41,8,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,243,9,1,2,9:26 PM,7:20,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,246,8,0,2,9:29 PM,7:20,SUB: Nembhard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,247,8,0,2,9:29 PM,7:20,,,SUB: Gilgeous-Alexander FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,248,8,0,2,9:29 PM,7:20,,,SUB: Holmgren FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,249,8,0,2,9:29 PM,7:20,,,SUB: Wiggins FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,254,2,1,2,9:30 PM,7:04,,,MISS Holmgren 26' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,255,4,0,2,9:30 PM,6:59,McConnell REBOUND (Off:0 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,256,5,4,2,9:30 PM,6:44,Nembhard Traveling Turnover (P1.T2),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,257,8,0,2,9:30 PM,6:44,,,SUB: Hartenstein FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,259,5,2,2,9:31 PM,6:29,McConnell STEAL (2 STL),,Gilgeous-Alexander Lost Ball Turnover (P5.T9),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,261,2,101,2,9:31 PM,6:23,MISS Toppin 6' Driving Floating Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,262,4,0,2,9:31 PM,6:21,McConnell REBOUND (Off:1 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,263,2,80,2,9:31 PM,6:16,MISS Nembhard 28' 3PT Step Back Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,264,4,0,2,9:31 PM,6:11,,,Wiggins REBOUND (Off:0 Def:1),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,265,2,6,2,9:31 PM,5:58,,,MISS Holmgren 3' Driving Layup,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,266,4,0,2,9:31 PM,5:55,McConnell REBOUND (Off:1 Def:4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,267,6,2,2,9:31 PM,5:48,,,Holmgren S.FOUL (P2.T1) (T.Brothers),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,269,3,11,2,9:32 PM,5:48,Bradley Free Throw 1 of 2 (3 PTS),,,33 - 42,9,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,270,8,0,2,9:32 PM,5:48,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,271,8,0,2,9:32 PM,5:48,,,SUB: Dort FOR Caruso,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,272,8,0,2,9:32 PM,5:48,,,SUB: Jal. Williams FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,276,3,12,2,9:32 PM,5:48,MISS Bradley Free Throw 2 of 2,,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,277,4,0,2,9:32 PM,5:46,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,279,2,52,2,9:33 PM,5:29,,,MISS Holmgren 1' Alley Oop Dunk,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,280,4,0,2,9:33 PM,5:27,Toppin REBOUND (Off:0 Def:4),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,281,1,2,2,9:33 PM,5:22,Nesmith 25' 3PT Running Jump Shot (3 PTS) (Haliburton 2 AST),,,33 - 45,12,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,283,6,2,2,9:33 PM,5:07,Toppin S.FOUL (P1.T2) (D.Guthrie),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,285,3,11,2,9:34 PM,5:07,,,Gilgeous-Alexander Free Throw 1 of 2 (12 PTS),34 - 45,11,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,286,8,0,2,9:34 PM,5:07,SUB: Siakam FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,287,8,0,2,9:34 PM,5:07,SUB: Turner FOR Bradley,,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,288,8,0,2,9:34 PM,5:07,,,SUB: Joe FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,292,3,12,2,9:34 PM,5:07,,,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),35 - 45,10,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,293,2,1,2,9:34 PM,4:59,MISS Siakam 26' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,294,4,0,2,9:34 PM,4:55,,,Gilgeous-Alexander REBOUND (Off:0 Def:2),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,295,2,1,2,9:34 PM,4:49,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,296,4,0,2,9:35 PM,4:45,,,Hartenstein REBOUND (Off:2 Def:2),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,297,5,1,2,9:35 PM,4:40,Haliburton STEAL (1 STL),,Joe Bad Pass Turnover (P1.T10),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,299,1,2,2,9:35 PM,4:35,Nesmith 24' 3PT Running Jump Shot (6 PTS) (Siakam 1 AST),,,35 - 48,13,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,301,9,1,2,9:35 PM,4:33,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,306,2,78,2,9:36 PM,4:17,,,MISS Hartenstein 7' Floating Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,307,4,0,2,9:36 PM,4:16,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,304,9,7,2,9:37 PM,4:16,PACERS Timeout: Coach Challenge (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,305,18,5,2,9:37 PM,4:16,,Instant Replay2nd Period (9:37 PM EST),,35 - 48,13,0,302,Mookie Blaylock,,,,,0,0,,,,,,1,0,,,,,,1
+0042400406,308,2,1,2,9:40 PM,3:59,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,309,4,0,2,9:40 PM,3:57,,,Gilgeous-Alexander REBOUND (Off:0 Def:3),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,310,2,80,2,9:40 PM,3:50,,,MISS Jal. Williams 24' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,311,4,0,2,9:40 PM,3:50,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,313,1,78,2,9:41 PM,3:39,Nesmith 12' Floating Jump Shot (8 PTS) (Siakam 2 AST),,,35 - 50,15,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,315,6,2,2,9:41 PM,3:39,,,Jal. Williams S.FOUL (P1.T2) (Z.Zarba),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,317,8,0,2,9:41 PM,3:39,,,SUB: Holmgren FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,318,8,0,2,9:41 PM,3:39,,,SUB: Caruso FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,321,3,10,2,9:41 PM,3:39,Nesmith Free Throw 1 of 1 (9 PTS),,,35 - 51,16,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,322,1,75,2,9:42 PM,3:21,,,Jal. Williams 2' Driving Finger Roll Layup (13 PTS),37 - 51,14,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,324,1,73,2,9:42 PM,3:01,Nembhard 4' Driving Reverse Layup (10 PTS),,,37 - 53,16,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,325,1,80,2,9:42 PM,2:52,,,Gilgeous-Alexander 16' Step Back Jump Shot (15 PTS),39 - 53,14,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,326,1,79,2,9:42 PM,2:34,Haliburton 28' 3PT Pullup Jump Shot (10 PTS),,,39 - 56,17,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,327,2,1,2,9:43 PM,2:21,Turner BLOCK (1 BLK),,MISS Holmgren 26' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400406,329,4,0,2,9:43 PM,2:19,Turner REBOUND (Off:1 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,330,6,1,2,9:43 PM,2:10,,,Dort P.FOUL (P2.T3) (D.Guthrie),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,332,2,6,2,9:43 PM,2:02,MISS Turner 5' Driving Layup,,Caruso BLOCK (1 BLK),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042400406,334,4,0,2,9:43 PM,2:02,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,336,1,47,2,9:44 PM,2:00,Siakam 3' Turnaround Jump Shot (9 PTS) (Haliburton 3 AST),,,39 - 58,19,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,338,1,102,2,9:44 PM,1:46,,,Jal. Williams 12' Driving Floating Bank Jump Shot (15 PTS),41 - 58,17,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,339,6,2,2,9:44 PM,1:46,Nesmith S.FOUL (P2.T3) (T.Brothers),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,341,3,10,2,9:44 PM,1:46,,,Jal. Williams Free Throw 1 of 1 (16 PTS),42 - 58,16,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,342,1,101,2,9:45 PM,1:26,Haliburton 12' Driving Floating Jump Shot (12 PTS) (Nesmith 2 AST),,,42 - 60,18,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,344,5,2,2,9:45 PM,1:04,Nembhard STEAL (3 STL),,Holmgren Lost Ball Turnover (P2.T11),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,346,2,86,2,9:45 PM,0:54,MISS Haliburton 11' Turnaround Fadeaway Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,347,4,0,2,9:45 PM,0:51,,,Dort REBOUND (Off:0 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,348,5,1,2,9:45 PM,0:43,Haliburton STEAL (2 STL),,Jal. Williams Bad Pass Turnover (P3.T12),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,350,1,108,2,9:46 PM,0:40,Siakam 1' Cutting Dunk Shot (11 PTS) (Haliburton 4 AST),,,42 - 62,20,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,352,2,75,2,9:46 PM,0:23,,,MISS Gilgeous-Alexander 3' Driving Finger Roll Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,353,4,0,2,9:46 PM,0:20,,,Holmgren REBOUND (Off:1 Def:3),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,356,2,1,2,9:46 PM,0:14,,,MISS Holmgren 16' Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,357,4,0,2,9:46 PM,0:11,Siakam REBOUND (Off:1 Def:2),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,358,1,47,2,9:46 PM,0:01,Siakam 18' Turnaround Jump Shot (13 PTS) (Nembhard 1 AST),,,42 - 64,22,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,360,18,0,2,9:46 PM,0:00,,Instant Replay2nd Period (9:46 PM EST),,42 - 64,22,0,358,Anfernee Hardaway,,,,,0,0,,,,,,1,0,,,,,,0
+0042400406,361,13,0,2,9:47 PM,0:00,,End of 2nd Period (9:47 PM EST),,42 - 64,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400406,362,12,0,3,10:04 PM,12:00,,Start of 3rd Period (10:04 PM EST),,42 - 64,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,363,2,86,3,10:04 PM,11:36,MISS Siakam 18' Turnaround Fadeaway Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,364,4,0,3,10:04 PM,11:32,,,Dort REBOUND (Off:0 Def:2),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0042400406,365,2,1,3,10:05 PM,11:11,,,MISS Dort 26' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,366,4,0,3,10:05 PM,11:07,Siakam REBOUND (Off:1 Def:3),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,371,2,79,3,10:06 PM,10:46,MISS Turner 22' Pullup Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,372,4,0,3,10:06 PM,10:43,,,Holmgren REBOUND (Off:1 Def:4),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,373,2,1,3,10:06 PM,10:34,,,MISS Dort 28' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,374,4,0,3,10:06 PM,10:30,Turner REBOUND (Off:1 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,375,2,2,3,10:06 PM,10:25,MISS Turner 24' 3PT Running Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,376,4,0,3,10:06 PM,10:21,,,Dort REBOUND (Off:0 Def:3),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,377,5,1,3,10:06 PM,10:09,Nesmith STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P6.T13),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,379,2,2,3,10:06 PM,10:05,MISS Haliburton 26' 3PT Running Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,380,4,0,3,10:06 PM,10:02,,,Holmgren REBOUND (Off:1 Def:5),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,381,2,80,3,10:06 PM,9:51,,,MISS Jal. Williams 26' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,382,4,0,3,10:07 PM,9:48,Nesmith REBOUND (Off:0 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,383,6,1,3,10:07 PM,9:44,,,Dort P.FOUL (P3.T1) (Z.Zarba),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,385,2,75,3,10:07 PM,9:37,MISS Siakam 5' Driving Finger Roll Layup,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,386,4,0,3,10:07 PM,9:35,,,Dort REBOUND (Off:0 Def:4),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,387,2,98,3,10:07 PM,9:25,Turner BLOCK (2 BLK),,MISS Caruso 1' Cutting Layup Shot,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0042400406,389,4,0,3,10:07 PM,9:24,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,391,2,1,3,10:08 PM,9:19,,,MISS Holmgren 27' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,392,4,0,3,10:08 PM,9:17,Siakam REBOUND (Off:1 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,393,2,2,3,10:08 PM,9:10,MISS Nesmith 20' Running Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,394,4,0,3,10:08 PM,9:07,Siakam REBOUND (Off:2 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,396,2,1,3,10:09 PM,8:54,MISS Nembhard 24' 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,397,4,0,3,10:09 PM,8:50,Siakam REBOUND (Off:3 Def:4),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,425,5,2,3,10:09 PM,8:44,Nesmith Lost Ball Turnover (P1.T3),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,401,6,3,3,10:09 PM,8:43,Nesmith L.B.FOUL (P3.T1) (Z.Zarba),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,403,2,1,3,10:09 PM,8:31,,,MISS Dort 27' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,404,4,0,3,10:09 PM,8:27,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,406,6,1,3,10:10 PM,8:20,,,Gilgeous-Alexander P.FOUL (P2.T2) (Z.Zarba),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,408,1,98,3,10:10 PM,8:07,Haliburton 2' Cutting Layup Shot (14 PTS) (Nesmith 3 AST),,,42 - 66,24,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,410,9,1,3,10:10 PM,8:06,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,411,8,0,3,10:13 PM,8:06,SUB: Sheppard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,412,8,0,3,10:13 PM,8:06,,,SUB: Wallace FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,413,8,0,3,10:13 PM,8:06,,,SUB: K. Williams FOR Caruso,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,417,2,6,3,10:14 PM,7:56,,,MISS Gilgeous-Alexander 4' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,418,4,0,3,10:14 PM,7:52,Siakam REBOUND (Off:3 Def:5),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,419,1,50,3,10:14 PM,7:47,Turner 2' Running Dunk (3 PTS) (Nembhard 2 AST),,,42 - 68,26,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,421,6,1,3,10:15 PM,7:33,Nembhard P.FOUL (P1.T2) (Z.Zarba),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,423,2,80,3,10:15 PM,7:23,,,MISS Gilgeous-Alexander 20' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,424,4,0,3,10:15 PM,7:20,Siakam REBOUND (Off:3 Def:6),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,426,1,76,3,10:15 PM,7:15,Sheppard 2' Running Finger Roll Layup (2 PTS) (Haliburton 5 AST),,,42 - 70,28,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,428,9,1,3,10:15 PM,7:15,,,Thunder Timeout: Regular (Reg.5 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,429,8,0,3,10:18 PM,7:15,,,SUB: Joe FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,430,8,0,3,10:18 PM,7:15,,,SUB: Hartenstein FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,433,1,52,3,10:19 PM,6:57,,,Hartenstein 3' Alley Oop Dunk (6 PTS) (Gilgeous-Alexander 1 AST),44 - 70,26,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,435,2,79,3,10:20 PM,6:42,MISS Haliburton 24' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,436,4,0,3,10:20 PM,6:38,Siakam REBOUND (Off:4 Def:6),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,437,5,1,3,10:20 PM,6:29,Haliburton Bad Pass Turnover (P1.T4),,Hartenstein STEAL (1 STL),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,439,6,2,3,10:20 PM,6:26,Haliburton S.FOUL (P1.T3) (D.Guthrie),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,441,3,11,3,10:20 PM,6:26,,,Hartenstein Free Throw 1 of 2 (7 PTS),45 - 70,25,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,442,8,0,3,10:20 PM,6:26,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,444,8,0,3,10:20 PM,6:26,SUB: McConnell FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,446,3,12,3,10:21 PM,6:26,,,Hartenstein Free Throw 2 of 2 (8 PTS),46 - 70,24,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,447,1,1,3,10:21 PM,6:12,Toppin 27' 3PT Jump Shot (11 PTS) (McConnell 4 AST),,,46 - 73,27,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,449,6,2,3,10:22 PM,5:55,Turner S.FOUL (P1.T4) (T.Brothers),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,451,3,11,3,10:22 PM,5:55,,,Hartenstein Free Throw 1 of 2 (9 PTS),47 - 73,26,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,452,3,12,3,10:22 PM,5:55,,,Hartenstein Free Throw 2 of 2 (10 PTS),48 - 73,25,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,453,6,26,3,10:23 PM,5:41,Toppin Offensive Charge Foul (P2) (T.Brothers),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,455,5,37,3,10:23 PM,5:41,Toppin Offensive Foul Turnover (P1.T5),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,456,6,1,3,10:23 PM,5:34,Turner P.FOUL (P2.PN) (Z.Zarba),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,458,3,11,3,10:24 PM,5:34,,,Gilgeous-Alexander Free Throw 1 of 2 (16 PTS),49 - 73,24,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,459,8,0,3,10:24 PM,5:34,SUB: Bradley FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,461,3,12,3,10:24 PM,5:34,,,Gilgeous-Alexander Free Throw 2 of 2 (17 PTS),50 - 73,23,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,462,6,1,3,10:24 PM,5:26,,,Hartenstein P.FOUL (P2.T3) (Z.Zarba),,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,464,5,45,3,10:25 PM,5:25,McConnell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,465,6,11,3,10:25 PM,5:25,Bradley T.FOUL (P0.PN) (Z.Zarba),,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,466,3,16,3,10:25 PM,5:25,,,Gilgeous-Alexander Free Throw Technical (18 PTS),51 - 73,22,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,467,9,1,3,10:26 PM,5:25,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,468,8,0,3,10:27 PM,5:25,SUB: Nembhard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,469,8,0,3,10:27 PM,5:25,SUB: Nesmith FOR Sheppard,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,472,1,1,3,10:28 PM,5:15,,,Joe 27' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),54 - 73,19,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,474,6,2,3,10:28 PM,4:54,,,Joe S.FOUL (P1.T4) (D.Guthrie),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,476,3,11,3,10:28 PM,4:54,Nembhard Free Throw 1 of 2 (11 PTS),,,54 - 74,20,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,477,3,12,3,10:29 PM,4:54,Nembhard Free Throw 2 of 2 (12 PTS),,,54 - 75,21,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,478,1,80,3,10:29 PM,4:36,,,Gilgeous-Alexander 10' Step Back Jump Shot (20 PTS),56 - 75,19,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,479,6,2,3,10:29 PM,4:36,Nembhard S.FOUL (P2.PN) (T.Brothers),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,481,3,10,3,10:29 PM,4:36,,,Gilgeous-Alexander Free Throw 1 of 1 (21 PTS),57 - 75,18,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,482,1,1,3,10:30 PM,4:20,Nembhard 26' 3PT Jump Shot (15 PTS) (McConnell 5 AST),,,57 - 78,21,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,484,5,1,3,10:30 PM,4:08,Toppin STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P7.T14),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,486,8,0,3,10:30 PM,3:53,SUB: Siakam FOR Bradley,,,,,4,1628396,Tony Bradley,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,488,8,0,3,10:30 PM,3:53,,,SUB: Holmgren FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,489,8,0,3,10:30 PM,3:53,,,SUB: Jal. Williams FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,494,8,0,3,10:30 PM,3:53,,,SUB: Caruso FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,495,10,0,3,10:31 PM,3:53, ,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,2,1610612760,,,,,,0
+0042400406,498,5,2,3,10:31 PM,3:51,McConnell Lost Ball Turnover (P2.T7),,Wallace STEAL (1 STL),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,501,5,1,3,10:31 PM,3:36,Toppin STEAL (2 STL),,Gilgeous-Alexander Bad Pass Turnover (P8.T15),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,503,2,103,3,10:32 PM,3:30,MISS McConnell 9' Running Pull-Up Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,504,4,0,3,10:32 PM,3:29,,,Gilgeous-Alexander REBOUND (Off:0 Def:4),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,505,2,6,3,10:32 PM,3:22,,,MISS Gilgeous-Alexander 5' Driving Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,506,4,0,3,10:32 PM,3:20,McConnell REBOUND (Off:1 Def:5),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,507,6,2,3,10:32 PM,3:16,,,Jal. Williams S.FOUL (P2.PN) (D.Guthrie),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,509,3,11,3,10:32 PM,3:16,Nembhard Free Throw 1 of 2 (16 PTS),,,57 - 79,22,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,510,8,0,3,10:32 PM,3:16,,,SUB: Wiggins FOR Gilgeous-Alexander,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,512,3,12,3,10:32 PM,3:16,Nembhard Free Throw 2 of 2 (17 PTS),,,57 - 80,23,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,513,2,102,3,10:33 PM,3:07,,,MISS Jal. Williams 7' Driving Floating Bank Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,514,4,0,3,10:33 PM,3:04,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,516,8,0,3,10:33 PM,3:04,SUB: Sheppard FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,519,2,1,3,10:33 PM,2:48,MISS Sheppard 24' 3PT Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,520,4,0,3,10:33 PM,2:46,,,Wallace REBOUND (Off:0 Def:2),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,521,2,79,3,10:34 PM,2:35,,,MISS Jal. Williams 16' Pullup Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,522,4,0,3,10:34 PM,2:32,McConnell REBOUND (Off:1 Def:6),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,523,2,80,3,10:34 PM,2:12,MISS Siakam 18' Step Back Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,524,4,0,3,10:34 PM,2:10,,,Wiggins REBOUND (Off:0 Def:2),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,525,5,2,3,10:34 PM,2:02,Sheppard STEAL (1 STL),,Wiggins Lost Ball Turnover (P1.T16),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,527,6,2,3,10:34 PM,1:55,,,Wiggins S.FOUL (P2.PN) (D.Guthrie),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,529,3,11,3,10:35 PM,1:55,Toppin Free Throw 1 of 2 (12 PTS),,,57 - 81,24,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,536,3,12,3,10:35 PM,1:55,MISS Toppin Free Throw 2 of 2,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,530,8,0,3,10:35 PM,1:55,SUB: Nembhard FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,531,8,0,3,10:35 PM,1:55,,,SUB: Gilgeous-Alexander FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,532,8,0,3,10:35 PM,1:55,,,SUB: Dort FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,537,4,0,3,10:35 PM,1:54,,,Caruso REBOUND (Off:0 Def:3),,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,538,2,1,3,10:36 PM,1:39,,,MISS Caruso 24' 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,539,4,0,3,10:36 PM,1:37,McConnell REBOUND (Off:1 Def:7),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,540,1,1,3,10:36 PM,1:15,Siakam 25' 3PT Jump Shot (16 PTS) (Nembhard 3 AST),,,57 - 84,27,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,542,1,1,3,10:36 PM,0:51,,,Dort 28' 3PT Jump Shot (3 PTS) (Jal. Williams 1 AST),60 - 84,24,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,544,1,80,3,10:37 PM,0:33,Toppin 26' 3PT Step Back Jump Shot (15 PTS) (McConnell 6 AST),,,60 - 87,27,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,546,2,1,3,10:37 PM,0:18,,,MISS Wiggins 28' 3PT Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,547,4,0,3,10:37 PM,0:15,Siakam REBOUND (Off:4 Def:7),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,548,2,1,3,10:37 PM,0:03,MISS Toppin 25' 3PT Jump Shot,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,549,4,0,3,10:37 PM,0:02,Siakam REBOUND (Off:5 Def:7),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,550,1,1,3,10:37 PM,0:00,Sheppard 27' 3PT Jump Shot (5 PTS) (Nembhard 4 AST),,,60 - 90,30,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,552,18,0,3,10:37 PM,0:00,,Instant Replay3rd Period (10:37 PM EST),,60 - 90,30,0,550,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400406,553,13,0,3,10:38 PM,0:00,,End of 3rd Period (10:38 PM EST),,60 - 90,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0042400406,562,12,0,4,10:41 PM,12:00,,Start of 4th Period (10:41 PM EST),,60 - 90,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,563,1,101,4,10:42 PM,11:48,,,Wallace 12' Driving Floating Jump Shot (2 PTS) (Jay. Williams 1 AST),62 - 90,28,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,564,1,86,4,10:42 PM,11:33,McConnell 12' Turnaround Fadeaway (10 PTS),,,62 - 92,30,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,565,2,6,4,10:42 PM,11:22,,,MISS Wallace 4' Driving Layup,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,566,4,0,4,10:42 PM,11:21,Toppin REBOUND (Off:0 Def:5),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,567,2,1,4,10:42 PM,11:14,MISS Siakam 25' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,568,4,0,4,10:42 PM,11:11,,,Wallace REBOUND (Off:0 Def:3),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,569,6,2,4,10:42 PM,11:01,McConnell S.FOUL (P2.T1) (D.Guthrie),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,572,3,11,4,10:43 PM,11:01,,,MISS K. Williams Free Throw 1 of 2,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,573,4,1,4,10:43 PM,11:01,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,576,3,12,4,10:43 PM,11:01,,,MISS K. Williams Free Throw 2 of 2,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,574,8,0,4,10:43 PM,11:01,SUB: Nesmith FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,577,4,0,4,10:43 PM,10:59,Sheppard REBOUND (Off:0 Def:1),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,578,6,2,4,10:43 PM,10:46,,,Jay. Williams S.FOUL (P1.T1) (D.Guthrie),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,580,3,11,4,10:44 PM,10:46,MISS Nesmith Free Throw 1 of 2,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,581,4,1,4,10:44 PM,10:46,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,582,3,12,4,10:44 PM,10:46,Nesmith Free Throw 2 of 2 (10 PTS),,,62 - 93,31,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,583,2,1,4,10:44 PM,10:34,,,MISS Wiggins 26' 3PT Jump Shot,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,584,4,0,4,10:44 PM,10:30,Sheppard REBOUND (Off:0 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,585,2,80,4,10:45 PM,10:18,MISS Siakam 18' Step Back Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,586,4,0,4,10:45 PM,10:15,,,Jay. Williams REBOUND (Off:0 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,588,1,1,4,10:45 PM,10:04,,,K. Williams 26' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),65 - 93,28,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,590,9,1,4,10:45 PM,10:01,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,591,8,0,4,10:48 PM,10:01,SUB: Turner FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,592,8,0,4,10:48 PM,10:01,,,SUB: Joe FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,595,2,1,4,10:49 PM,9:39,MISS Siakam 21' Jump Shot,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,596,4,0,4,10:49 PM,9:35,,,Jay. Williams REBOUND (Off:0 Def:2),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,597,6,2,4,10:49 PM,9:26,Nesmith S.FOUL (P4.T2) (D.Guthrie),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,599,7,1,4,10:50 PM,9:26,PACERS Violation: Delay of game Violation,,,,,2,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
+0042400406,600,3,11,4,10:50 PM,9:26,,,Jay. Williams Free Throw 1 of 2 (1 PTS),66 - 93,27,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,601,3,12,4,10:50 PM,9:26,,,MISS Jay. Williams Free Throw 2 of 2,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,602,4,0,4,10:50 PM,9:25,Siakam REBOUND (Off:5 Def:8),,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,603,1,79,4,10:50 PM,9:19,McConnell 15' Pullup Jump Shot (12 PTS),,,66 - 95,29,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,604,2,80,4,10:50 PM,9:06,,,MISS Joe 26' 3PT Step Back Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,605,4,0,4,10:50 PM,9:03,McConnell REBOUND (Off:1 Def:8),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,606,5,1,4,10:51 PM,8:56,McConnell Bad Pass Turnover (P3.T8),,Jay. Williams STEAL (1 STL),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,608,6,2,4,10:51 PM,8:53,Sheppard S.FOUL (P1.T3) (T.Brothers),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,610,3,11,4,10:51 PM,8:53,,,Wiggins Free Throw 1 of 2 (4 PTS),67 - 95,28,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0042400406,611,8,0,4,10:51 PM,8:53,SUB: Mathurin FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,613,3,12,4,10:51 PM,8:53,,,Wiggins Free Throw 2 of 2 (5 PTS),68 - 95,27,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,614,1,79,4,10:52 PM,8:33,Sheppard 20' Pullup Jump Shot (7 PTS),,,68 - 97,29,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,615,1,1,4,10:52 PM,8:22,,,Jay. Williams 27' 3PT Jump Shot (4 PTS) (Mitchell 1 AST),71 - 97,26,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,617,5,2,4,10:52 PM,8:00,Siakam Lost Ball Turnover (P1.T9),,Wiggins STEAL (1 STL),,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,619,5,1,4,10:52 PM,7:54,McConnell STEAL (3 STL),,Wiggins Bad Pass Turnover (P2.T17),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,621,1,50,4,10:52 PM,7:49,Mathurin 1' Running Dunk (2 PTS) (Siakam 3 AST),,,71 - 99,28,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,623,5,1,4,10:53 PM,7:28,Sheppard STEAL (2 STL),,Wiggins Bad Pass Turnover (P3.T18),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,625,2,103,4,10:53 PM,7:23,MISS Mathurin 25' 3PT Running Pull-Up Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,626,4,0,4,10:53 PM,7:20,,,K. Williams REBOUND (Off:0 Def:2),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,627,6,2,4,10:53 PM,7:17,Sheppard S.FOUL (P2.T4) (D.Guthrie),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0042400406,629,3,11,4,10:53 PM,7:17,,,Joe Free Throw 1 of 2 (4 PTS),72 - 99,27,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,630,8,0,4,10:53 PM,7:17,SUB: Toppin FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,631,8,0,4,10:53 PM,7:17,,,SUB: Jones FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,634,3,12,4,10:54 PM,7:17,,,Joe Free Throw 2 of 2 (5 PTS),73 - 99,26,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,635,2,79,4,10:54 PM,7:02,MISS McConnell 15' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,636,4,0,4,10:54 PM,6:57,,,Jones REBOUND (Off:0 Def:1),,,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,637,2,2,4,10:54 PM,6:54,,,MISS Jay. Williams 3PT Running Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,638,4,0,4,10:54 PM,6:51,Mathurin REBOUND (Off:1 Def:3),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,639,6,2,4,10:54 PM,6:50,,,Jones S.FOUL (P1.T2) (D.Guthrie),,,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,641,3,11,4,10:55 PM,6:50,MISS Toppin Free Throw 1 of 2,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,642,4,1,4,10:55 PM,6:50,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,643,3,12,4,10:55 PM,6:50,Toppin Free Throw 2 of 2 (16 PTS),,,73 - 100,27,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,644,5,1,4,10:55 PM,6:35,Mathurin STEAL (2 STL),,Jones Bad Pass Turnover (P1.T19),,,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,647,8,0,4,10:55 PM,6:30,SUB: Bryant FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,649,2,79,4,10:56 PM,6:22,MISS McConnell 12' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,650,4,0,4,10:56 PM,6:20,,,Mitchell REBOUND (Off:0 Def:1),,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,651,5,2,4,10:56 PM,6:20,McConnell STEAL (4 STL),,Mitchell Lost Ball Turnover (P1.T20),,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,653,2,1,4,10:56 PM,6:16,MISS McConnell 3' Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,654,4,0,4,10:56 PM,6:14,,,Jay. Williams REBOUND (Off:0 Def:3),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,655,1,98,4,10:56 PM,6:02,,,Jones 3' Cutting Layup Shot (2 PTS) (Joe 1 AST),75 - 100,25,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,657,2,1,4,10:57 PM,5:46,MISS Bryant 25' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,658,4,0,4,10:57 PM,5:44,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,660,9,1,4,10:57 PM,5:44,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,661,8,0,4,11:00 PM,5:44,SUB: Furphy FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,663,1,1,4,11:01 PM,5:32,,,Jay. Williams 27' 3PT Jump Shot (7 PTS) (Mitchell 2 AST),78 - 100,22,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,665,2,80,4,11:01 PM,5:07,MISS Mathurin 26' 3PT Step Back Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,666,4,0,4,11:01 PM,5:05,,,Jay. Williams REBOUND (Off:0 Def:4),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,667,1,41,4,11:01 PM,5:00,,,Jones 3' Running Layup (4 PTS) (Mitchell 3 AST),80 - 100,20,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,669,1,80,4,11:02 PM,4:40,Toppin 16' Step Back Jump Shot (18 PTS),,,80 - 102,22,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,671,2,75,4,11:02 PM,4:25,,,MISS Mitchell 3' Driving Finger Roll Layup,,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,672,4,0,4,11:02 PM,4:23,Toppin REBOUND (Off:0 Def:6),,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,673,2,75,4,11:02 PM,4:17,MISS Sheppard 2' Driving Finger Roll Layup,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,674,4,0,4,11:02 PM,4:15,Sheppard REBOUND (Off:1 Def:2),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,675,1,80,4,11:02 PM,4:12,Toppin 18' Step Back Jump Shot (20 PTS),,,80 - 104,24,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,676,2,75,4,11:02 PM,4:01,,,MISS Mitchell 4' Driving Finger Roll Layup,,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,677,4,0,4,11:02 PM,3:58,,,Jones REBOUND (Off:1 Def:1),,,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,678,1,108,4,11:02 PM,3:57,,,Joe 3' Cutting Dunk Shot (7 PTS) (Jones 1 AST),82 - 104,22,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1641794,Dillon Jones,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,680,2,80,4,11:03 PM,3:43,MISS Sheppard 29' 3PT Step Back Jump Shot,,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,681,4,0,4,11:03 PM,3:38,,,K. Williams REBOUND (Off:0 Def:3),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,682,2,1,4,11:03 PM,3:24,,,MISS Mitchell 3PT Jump Shot,,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,683,4,0,4,11:03 PM,3:20,Sheppard REBOUND (Off:1 Def:3),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,684,6,2,4,11:03 PM,3:04,,,Jay. Williams S.FOUL (P2.T3) (Z.Zarba),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0042400406,686,3,11,4,11:04 PM,3:04,MISS Bryant Free Throw 1 of 2,,,,,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,687,4,1,4,11:04 PM,3:04,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,688,8,0,4,11:04 PM,3:04,SUB: Johnson FOR Toppin,,,,,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,689,8,0,4,11:04 PM,3:04,,,SUB: Dieng FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0042400406,692,3,12,4,11:04 PM,3:04,Bryant Free Throw 2 of 2 (1 PTS),,,82 - 105,23,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,693,5,45,4,11:04 PM,2:52,,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T21),,,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0042400406,695,2,80,4,11:05 PM,2:29,MISS Mathurin 25' 3PT Step Back Jump Shot,,Dieng BLOCK (1 BLK),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,1
+0042400406,697,4,0,4,11:05 PM,2:26,,,Jay. Williams REBOUND (Off:0 Def:5),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,698,2,41,4,11:05 PM,2:24,Mathurin BLOCK (1 BLK),,MISS Dieng 5' Running Layup,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1
+0042400406,700,4,0,4,11:05 PM,2:24,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,702,2,1,4,11:06 PM,2:17,,,MISS Dieng 27' 3PT Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,703,4,0,4,11:06 PM,2:13,Sheppard REBOUND (Off:1 Def:4),,,,,4,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,705,5,40,4,11:06 PM,2:01,Furphy Out of Bounds Lost Ball Turnover (P1.T10),,,,,4,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,706,1,6,4,11:06 PM,1:50,,,Mitchell 2' Driving Layup (2 PTS),84 - 105,21,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,707,2,79,4,11:06 PM,1:33,MISS Johnson 21' Pullup Jump Shot,,,,,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0042400406,708,4,0,4,11:07 PM,1:30,,,Joe REBOUND (Off:0 Def:1),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,709,1,80,4,11:07 PM,1:18,,,Dieng 27' 3PT Step Back Jump Shot (3 PTS),87 - 105,18,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,710,1,1,4,11:07 PM,0:58,Bryant 25' 3PT Jump Shot (4 PTS) (Mathurin 1 AST),,,87 - 108,21,4,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0042400406,712,18,2,4,11:07 PM,0:57,,Instant Replay4th Period (11:07 PM EST),,87 - 108,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0042400406,714,6,11,4,11:09 PM,0:57,Johnson T.FOUL (P0.T4) (Z.Zarba),,,,,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,715,11,4,4,11:09 PM,0:57,Johnson Ejection:Other,,,,,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0042400406,716,3,16,4,11:10 PM,0:57,,,Joe Free Throw Technical (8 PTS),88 - 108,20,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0042400406,717,8,0,4,11:10 PM,0:57,SUB: Toppin FOR Johnson,,,,,4,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,4,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0042400406,719,7,5,4,11:10 PM,0:47,Furphy Violation:Kicked Ball (T.Brothers),,,,,4,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0042400406,720,1,1,4,11:11 PM,0:41,,,Joe 26' 3PT Jump Shot (11 PTS) (Mitchell 4 AST),91 - 108,17,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1642349,Ajay Mitchell,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0042400406,722,5,11,4,11:11 PM,0:16,PACERS Turnover: Shot Clock (T#11),,,,,2,1610612754,,,,,,0,0,,,,,,1,0,,,,,,1
+0042400406,723,13,0,4,11:12 PM,0:00,,End of 4th Period (11:12 PM EST),,91 - 108,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
