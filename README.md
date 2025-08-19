@@ -55,12 +55,6 @@ This repository contains a collection of basketball analytics projects that anal
    - Key turning points and momentum analysis
    - Player performance comparisons
 
-## How to Use
-
-1. **For Data Analysis**: Open the Jupyter notebooks (`.ipynb` files) to see how data is collected and analyzed
-2. **For Live Dashboard**: Run the Streamlit app to see real-time basketball statistics
-3. **For Data Files**: Check the CSV files for processed basketball statistics
-4. **For Database**: Use the SQL files to set up your own basketball database
 
 ## What I've Learned from these projects
 
